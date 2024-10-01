@@ -1,0 +1,15 @@
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\bin\Debug\net8.0\VerificadorExistênciaLetraA.exe
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\bin\Debug\net8.0\VerificadorExistênciaLetraA.deps.json
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\bin\Debug\net8.0\VerificadorExistênciaLetraA.runtimeconfig.json
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\bin\Debug\net8.0\VerificadorExistênciaLetraA.dll
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\bin\Debug\net8.0\VerificadorExistênciaLetraA.pdb
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\VerificadorExistênciaLetraA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\VerificadorExistênciaLetraA.AssemblyInfoInputs.cache
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\VerificadorExistênciaLetraA.AssemblyInfo.cs
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\VerificadorExistênciaLetraA.csproj.CoreCompileInputs.cache
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\VerificadorExistênciaLetraA.sourcelink.json
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\VerificadorExistênciaLetraA.dll
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\refint\VerificadorExistênciaLetraA.dll
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\VerificadorExistênciaLetraA.pdb
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\VerificadorExistênciaLetraA.genruntimeconfig.cache
+C:\Users\guibr\Desktop\Teste estágio Target\VerificadorExistênciaLetraA\VerificadorExistênciaLetraA\obj\Debug\net8.0\ref\VerificadorExistênciaLetraA.dll
