@@ -12,11 +12,11 @@ Meu nome é Guilherme e sou um profissional apaixonado por tecnologia e desenvol
 
 
 
-![Coding GIF](https://media.giphy.com/media/xT9IgG50FzVjZlm1qG/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/2w6M9tUo5OU7C/giphy.gif)
 
-![Debugging GIF](https://media.giphy.com/media/3o7btOQOD6P9W8YpX6/giphy.gif)
+![Debugging GIF](https://media.giphy.com/media/10LZs5w5PzElI8/giphy.gif)
 
-![Teamwork GIF](https://media.giphy.com/media/l2JHRo2D1TlgW5UBK/giphy.gif)
+![Teamwork GIF](https://media.giphy.com/media/1bXnXk8hvWqGE/giphy.gif)
 
 ## Contato
 
